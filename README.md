@@ -6,8 +6,7 @@
 npm i --save-dev @abgov/style-dictionary
 ```
 
-Within your one of your application top level js/ts file
-add the following
+Within your one of your application top level js/ts files add the following:
 
 SCSS
 ```scss
@@ -18,6 +17,3 @@ CSS
 ```css
 @import "@abgov/style-dictionary/css/tokens";
 ```
-
-
-
