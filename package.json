@@ -31,6 +31,8 @@
     "url": "https://github.com/GovAlta/style-dictionary/issues"
   },
   "release": {
-    "branches": ["main"]
+    "branches": [
+      "main"
+    ]
   }
 }
