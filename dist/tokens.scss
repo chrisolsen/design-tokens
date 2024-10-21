@@ -1,6 +1,6 @@
 
 // Do not edit directly
-// Generated on Sat, 19 Oct 2024 14:57:14 GMT
+// Generated on Mon, 21 Oct 2024 19:19:24 GMT
 
 $goa-letter-spacing-button: 0.0125rem;
 $goa-font-weight-bold: 700;
@@ -121,13 +121,15 @@ $goa-color-interactive-hover: #004f84;
 $goa-color-interactive-default: #0070c4;
 $goa-side-menu-parent-color-bg-hover: #CEDFEE;
 $goa-side-menu-child-border-width: 4px;
+$goa-callout-m-border-width: 0px;
 $goa-callout-emergency-border-color: none;
 $goa-callout-success-border-color: none;
 $goa-callout-warning-border-color: none;
 $goa-callout-info-border-color: none;
-$goa-callout-border-width: 0px;
+$goa-callout-l-border-width: 0px;
 $goa-button-height-compact: 32px;
 $goa-button-height: 42px;
+$goa-accordion-shadow: none;
 $goa-typography-number-l: $goa-font-weight-medium $goa-font-size-7/$goa-line-height-4 $goa-font-family-number;
 $goa-typography-number-m: $goa-font-weight-medium $goa-font-size-4/$goa-line-height-3 $goa-font-family-number;
 $goa-typography-number-s: $goa-font-weight-medium $goa-font-size-3/$goa-line-height-2 $goa-font-family-number;
@@ -155,6 +157,7 @@ $goa-side-menu-group-color-bg: $goa-color-greyscale-white;
 $goa-container-padding: $goa-space-l;
 $goa-container-border: $goa-border-width-s solid $goa-color-greyscale-200;
 $goa-container-border-radius: $goa-border-radius-m;
+$goa-callout-event-icon-color: $goa-color-greyscale-white;
 $goa-callout-emergency-icon-color: $goa-color-greyscale-white;
 $goa-callout-emergency-color-bg-statusbar: $goa-color-emergency-default;
 $goa-callout-emergency-color-bg-content: $goa-color-greyscale-100;
@@ -195,6 +198,7 @@ $goa-callout-m-text-size: $goa-typography-body-s;
 $goa-callout-m-heading-size: $goa-typography-heading-xs;
 $goa-callout-l-text-size: $goa-typography-body-m;
 $goa-callout-l-heading: $goa-typography-heading-m;
+$goa-callout-l-heading-size: $goa-typography-heading-m;
 $goa-button-text: $goa-typography-button-default;
 $goa-accordion-heading-m: $goa-typography-heading-m;
 $goa-accordion-heading-s: $goa-typography-heading-s;
