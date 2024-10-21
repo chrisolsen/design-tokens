@@ -1,6 +1,6 @@
 
 // Do not edit directly
-// Generated on Mon, 21 Oct 2024 19:19:24 GMT
+// Generated on Mon, 21 Oct 2024 20:22:31 GMT
 
 $goa-letter-spacing-button: 0.0125rem;
 $goa-font-weight-bold: 700;
@@ -148,11 +148,12 @@ $goa-color-text-light: $goa-color-greyscale-white;
 $goa-color-text-secondary: $goa-color-greyscale-700;
 $goa-color-text-default: $goa-color-greyscale-black;
 $goa-table-color-border-heading: $goa-color-greyscale-600;
+$goa-side-menu-group-padding: $goa-space-m $goa-space-none $goa-space-l $goa-space-none;
 $goa-side-menu-child-color-bg-selected: $goa-color-information-background;
-$goa-side-menu-child-color-bg-hover: $goa-color-information-background;
+$goa-side-menu-sub-group-padding: $goa-space-none $goa-space-none $goa-space-none $goa-space-none;
 $goa-side-menu-group-border-radius: $goa-border-radius-none;
 $goa-side-menu-parent-padding: $goa-space-none;
-$goa-side-menu-group-padding: $goa-space-m $goa-space-none $goa-space-l $goa-space-none;
+$goa-side-menu-child-color-bg-hover: $goa-color-information-background;
 $goa-side-menu-group-color-bg: $goa-color-greyscale-white;
 $goa-container-padding: $goa-space-l;
 $goa-container-border: $goa-border-width-s solid $goa-color-greyscale-200;
@@ -191,8 +192,8 @@ $goa-accordion-border: $goa-border-width-s solid $goa-color-greyscale-200;
 $goa-accordion-color-bg-content: $goa-color-greyscale-white;
 $goa-accordion-color-bg-heading: $goa-color-greyscale-100;
 $goa-table-color-heading: $goa-color-text-secondary;
-$goa-side-menu-parent-text-active: $goa-typography-body-m;
 $goa-side-menu-parent-text: $goa-typography-body-m;
+$goa-side-menu-parent-text-active: $goa-typography-body-m;
 $goa-side-menu-child-color-text-selected: $goa-color-text-default;
 $goa-callout-m-text-size: $goa-typography-body-s;
 $goa-callout-m-heading-size: $goa-typography-heading-xs;
