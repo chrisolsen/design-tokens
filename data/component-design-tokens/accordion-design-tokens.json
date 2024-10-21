@@ -50,5 +50,9 @@
   "accordion-heading-m": {
     "value": "{typography.heading.m}",
     "type": "other"
+  },
+  "accordion-shadow": {
+    "value":"none",
+    "type":"shadow"
   }
 }
